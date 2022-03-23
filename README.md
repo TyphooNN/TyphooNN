@@ -9,7 +9,7 @@
 
 ## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TyphooNN&theme=algolia" alt="Typhon"  /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TyphooNN&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Typhon" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TyphooNN&show_icons=true&locale=fr&layout=compact&theme=algolia" alt="Typhon" /></p>
 
 
 ## My Skills
