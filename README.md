@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Scholtes Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+;ETNA;Athanor&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+;Mobile Developer;ETNA&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a french student currently at ETNA and working for Athanor. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person.</h4>
