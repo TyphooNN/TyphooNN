@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I'm+Scholtes+Kevin;Front-End+Developer;Mobile+Developer;ETNA" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am a french student currently at ETNA and working for Athanor. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person.</h4>
+<h4 align="center">I am a french student currently at ETNA and working for UP. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person.</h4>
 <br>
 
 
